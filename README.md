@@ -37,7 +37,7 @@ The script requires the Oracle Instant Client binaries. Please ensure the path i
 ### 2. Python Dependencies / Python 依赖库
 ```bash
 pip install pandas oracledb openpyxl
-
+```
 **### 3. Oracle Binaries / 系统环境**
 To use SQL*Loader (Mode 5/6), the sqlldr command must be installed and accessible in your system.
 如需使用 SQL*Loader (模式 5/6)，请确保系统已安装并配置好 sqlldr 命令行工具。
